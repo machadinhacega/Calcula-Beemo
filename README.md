@@ -43,4 +43,4 @@ Adicionar funções para as operações mais complexas.
 #### Obrigada pela atenção e confira o resultado no botão abaixo:
 
  
-[<img src='verProjeto.png' alt='botao ver projeto' height='40'>](https://machadinhacega.github.io/Calcula-Beemo/) 
+[<img src='verProjeto2.png' alt='botao ver projeto' height='40'>](https://machadinhacega.github.io/Calcula-Beemo/) 
